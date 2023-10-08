@@ -27,7 +27,7 @@ This web site provides  software setup, Data diagrams, and ready-to-run Python p
 - [Official team web page](https://www.spaceappschallenge.org/2023/find-a-team/magnetic-marvels/) at SpaceAppsChallenge.org
 - [project summary](https://www.canva.com/design/DAFwj_2RcRw/bJSWoR92cyOmXUWiJ-CwYA/edit?utm_content=DAFwj_2RcRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
     - If PDF version: Demo videos will not work in PDF version.
-- [presentation video]() for Ahmedabad local judging
+- [presentation video](https://youtu.be/COMqyVGkZIY?feature=shared) for Ahmedabad local judging
 - [Presentation slides](https://www.canva.com/design/DAFwj_2RcRw/bJSWoR92cyOmXUWiJ-CwYA/edit?utm_content=DAFwj_2RcRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) at Ahmedabad local judging
     
 
