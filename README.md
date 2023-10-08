@@ -15,9 +15,6 @@ We are excited and honored to be the part of this global hackathon.
 
 
 
-<!-- We are excited and honored to be [one of 35 Global Finalists](https://2022.spaceappschallenge.org/awards/global-finalists/), which were selected from 5,327 teams worldwide (31,561 participants from 162 countries) by NASA and 10 other space agencies!-->
-
-<!-- We participated in the Boston division of Space Apps and won the **1st place** there! We are excited to be be [one of global nominees](https://2022.spaceappschallenge.org/locations/boston/teams)!-->
 
 Our team worked on the ["Analysis of IMF Vectors To predict the occurence of magnetic reconnection in GeoMagnetic space near Earth" challenge](https://www.spaceappschallenge.org/2023/challenges/magnetic-reconnection/) to "create a computer program for the public that analyzes the IMF vector components measured by spacecraft to assess how often magnetic reconnection occurs."
 
